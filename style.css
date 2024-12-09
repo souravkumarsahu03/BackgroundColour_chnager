@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    align-items: center;
+    text-align: center;
+}
+
+.btn{
+    padding: 40px 0;
+}
+
+#blue{
+border: 3px solid black;
+padding: 50px 50px;
+background-color: blue;
+}
+#green{
+border: 3px solid black;
+padding: 50px 50px;
+background-color: green;
+}
+#red{
+border: 3px solid black;
+padding: 50px 50px;
+background-color: red;
+}
+#yellow{
+border: 3px solid black;
+padding: 50px 50px;
+background-color: yellow;
+}
+
+
+.exit{
+background-color: aliceblue;
+color: blue;
+border: 2px solid black;
+padding: 4px 10px;
+font-size: 23px;
+border-radius: 8px;
+}
+
+.exit_btn{
+padding-top: 40px;
+}
